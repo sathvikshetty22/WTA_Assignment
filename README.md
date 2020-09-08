@@ -1,2 +1,2 @@
-#WTA_Assignment
+WTA_Assignment
 
